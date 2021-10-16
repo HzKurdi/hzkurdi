@@ -13,7 +13,7 @@ Talking about Personal Stuffs:
     🌱 I’m currently learning Microsoft Learn ;
     💬 I am an ambassador in Microsoft Learn Students Ambassadors ;
     📫 How to reach me: @hz.kurdi in Instagram ;
-    📝Resume : hzkurd.com 
+    📝Resume : hzkurdi.com 
 
 
 
@@ -21,7 +21,7 @@ Talking about Personal Stuffs:
        _________________________________________________
        
        Microsoft Learn Students Ambassadors 
-       Co Founder of Algo Tech 
+       Co Founder of Index Academy 
        Flutter Developer at Devistan 
        
        
