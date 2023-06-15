@@ -3,26 +3,23 @@
 I am Huzayfa from Halabja - Iraq .
 
 
-Experenced Graphic designer and flutter developer with strong knowledge in social media management
+Experenced Graphic designer and flutter developer, currently woring in Datascience and AI.
 
 
 
 Talking about Personal Stuffs:
 
     👨🏽‍💻 I’m currently working on a flutter app 😉;
-    🌱 I’m currently learning Microsoft Learn ;
-    💬 I am an ambassador in Microsoft Learn Students Ambassadors ;
+    🌱 I’ve cloud skills, especially in azure ;
+    💬 I was ambassador in Microsoft Learn Students Ambassadors ;
+    💬 I was Google developer club lead ;
+    💬 I am deeplearning.ai ambassador ;
     📫 How to reach me: @hz.kurdi in Instagram ;
     📝Resume : hzkurdi.com 
 
 
 
-                            Works 
-       _________________________________________________
-       
-       Microsoft Learn Students Ambassadors 
-       Co Founder of Index Academy 
-       Flutter Developer at Devistan 
+      
        
        
        
