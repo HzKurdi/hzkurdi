@@ -1,6 +1,6 @@
  Hi there 👋
 
-I am Huzayfa from Halabja - Iraq .
+I am Huzayfa.
 
 
 Experenced Graphic designer and flutter developer, currently woring in Datascience and AI.
